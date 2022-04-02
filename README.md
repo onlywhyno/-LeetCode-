@@ -18,3 +18,6 @@ https://www.luogu.com.cn/contest/66059
 ```
 https://www.luogu.com.cn/contest/66112
 ```
+```
+邮箱：itcyy@student.gdufe.edu.cn
+```
